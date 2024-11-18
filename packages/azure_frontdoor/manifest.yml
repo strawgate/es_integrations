@@ -29,7 +29,7 @@ policy_templates:
     inputs:
       - type: "azure-eventhub"
         title: "Collect azure frontdoor events from Event Hub"
-        description: "Collecting azure frontdooor events from Azure eventhub inputs (input: azure-eventhub)."
+        description: "Collecting azure frontdoor events from Azure eventhub inputs (input: azure-eventhub)."
         vars:
           - name: eventhub
             type: text
