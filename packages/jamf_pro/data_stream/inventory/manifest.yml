@@ -51,7 +51,7 @@ streams:
         show_user: false
         default: true
         title: "General"
-        description: "Enable General Settings for the API responce"
+        description: "Enable General Settings for the API response"
       - name: enable_section_hardware
         type: bool
         show_user: false
@@ -171,7 +171,7 @@ streams:
         show_user: false
         default: false
         title: "Software Updates"
-        description: "Enable SofwareUpdates block"
+        description: "Enable SoftwareUpdates block"
       - name: enable_section_extension_attributes
         type: bool
         show_user: false
